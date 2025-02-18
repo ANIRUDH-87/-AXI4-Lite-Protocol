@@ -14,7 +14,8 @@ This repository contains the **AXI4-Lite Slave Interface** implementation using 
 ---
 
 ## 🛠 Tools Used  
-- **SystemVerilog (RTL & Testbench)**   
+- **SystemVerilog (RTL & Testbench)**
+- **XilinxVivado**   
 - **Functional Coverage & Assertions (SVA)**  
 
 ---
